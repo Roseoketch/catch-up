@@ -1,0 +1,18 @@
+body{
+    background-image: url('./images/background\ img.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.5;
+}
+
+.intro{
+    background-color: pink;
+    border: 3px dotted blue;
+    margin: 10% 20% 0 5%;
+}
+
+#intro{
+    background-color: aqua;
+    padding: 5%;
+    margin: 5% 20% 0 5%;
+}
